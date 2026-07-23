@@ -1,0 +1,153 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="DrMcYtrXOvXWZPg6jI0c">
+    <mxGraphModel dx="1352" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AipDd_lqgMobL2JespXm-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="educoder" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="aihub" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="deeptutor" vertex="1">
+          <mxGeometry height="60" width="120" x="797" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mineru" vertex="1">
+          <mxGeometry height="60" width="120" x="1215" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="markitdown" vertex="1">
+          <mxGeometry height="60" width="120" x="1020" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-9" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="257" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="前端" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7EA6E0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="261" y="300" as="sourcePoint" />
+            <mxPoint x="261" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="上传文档" vertex="1">
+          <mxGeometry height="30" width="60" x="261" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="llama index" vertex="1">
+          <mxGeometry height="60" width="120" x="1020" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7EA6E0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="261" y="430" as="sourcePoint" />
+            <mxPoint x="261" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#7EA6E0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="540" as="sourcePoint" />
+            <mxPoint x="520" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. 用户信息&lt;div&gt;2. 创建知识库的请求&lt;/div&gt;&lt;div&gt;3. 知识库文件&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="380" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#7EA6E0;" target="AipDd_lqgMobL2JespXm-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="530" as="sourcePoint" />
+            <mxPoint x="690" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. 用户信息&lt;div&gt;2. 创建知识库的请求&lt;/div&gt;&lt;div&gt;3. 知识库文件&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="650" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeColor=#7EA6E0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="917" y="529.5" as="sourcePoint" />
+            <mxPoint x="1020" y="529.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="文件解析" vertex="1">
+          <mxGeometry height="30" width="60" x="940" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#7EA6E0;" target="AipDd_lqgMobL2JespXm-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1140" y="529" as="sourcePoint" />
+            <mxPoint x="1243" y="529" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="pdf" vertex="1">
+          <mxGeometry height="30" width="60" x="1140" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-24" edge="1" parent="1" source="AipDd_lqgMobL2JespXm-6" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.808;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="620" />
+              <mxPoint x="1010" y="570" />
+            </Array>
+            <mxPoint x="1080" y="600" as="sourcePoint" />
+            <mxPoint x="1060" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="word， 图片，文本，音视频" vertex="1">
+          <mxGeometry height="30" width="110" x="1030" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-26" edge="1" parent="1" source="AipDd_lqgMobL2JespXm-6" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#7EA6E0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1080" y="490" as="sourcePoint" />
+            <mxPoint x="1080" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="解析完的信息向量化入库索引" vertex="1">
+          <mxGeometry height="30" width="90" x="1090" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. 知识库构建，检索&lt;div&gt;2. 智能体编排流程&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="123" x="797" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-30" edge="1" parent="1" source="AipDd_lqgMobL2JespXm-4" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="620" />
+              <mxPoint x="530" y="570" />
+            </Array>
+            <mxPoint x="530" y="620" as="sourcePoint" />
+            <mxPoint x="580" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="这两个概念&lt;div&gt;是重合的&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="660" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-32" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="312" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-33" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="AipDd_lqgMobL2JespXm-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="300" as="sourcePoint" />
+            <mxPoint x="380" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="问答" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-35" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="AipDd_lqgMobL2JespXm-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="430" as="sourcePoint" />
+            <mxPoint x="380" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-36" edge="1" parent="1" source="AipDd_lqgMobL2JespXm-1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="AipDd_lqgMobL2JespXm-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="520" as="sourcePoint" />
+            <mxPoint x="410" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AipDd_lqgMobL2JespXm-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. 用户信息&lt;div&gt;2. 知识库信息&lt;/div&gt;&lt;div&gt;3. 工具信息&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="400" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="_MMwGBqFJR7APa1MgRVe-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. 用户信息&lt;div&gt;2. 创建知识库的请求&lt;/div&gt;&lt;div&gt;3. 知识库文件&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="670" y="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
