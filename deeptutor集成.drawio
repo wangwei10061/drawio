@@ -141,8 +141,30 @@
             <mxPoint x="410" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AipDd_lqgMobL2JespXm-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. 用户信息&lt;div&gt;2. 知识库信息&lt;/div&gt;&lt;div&gt;3. 工具信息&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="100" x="400" y="480" as="geometry" />
+        <mxCell id="AipDd_lqgMobL2JespXm-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. 用户信息&lt;div&gt;2. 引用的知识库的信息&lt;/div&gt;&lt;div&gt;3. 工具调用信息&lt;/div&gt;&lt;div&gt;4. 技能引用&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="370" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Uy54jUrV_ECOKgjqeGfl-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. 用户信息&lt;div&gt;2. 引用的知识库的信息&lt;/div&gt;&lt;div&gt;3. 工具调用信息&lt;/div&gt;&lt;div&gt;4. 技能引用&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="650" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="Uy54jUrV_ECOKgjqeGfl-2" edge="1" parent="1" source="AipDd_lqgMobL2JespXm-3" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="AipDd_lqgMobL2JespXm-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="520" as="sourcePoint" />
+            <mxPoint x="690" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uy54jUrV_ECOKgjqeGfl-3" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="420" />
+              <mxPoint x="950" y="410" />
+            </Array>
+            <mxPoint x="800" y="450" as="sourcePoint" />
+            <mxPoint x="900" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uy54jUrV_ECOKgjqeGfl-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Agent Loop" vertex="1">
+          <mxGeometry height="30" width="90" x="797" y="375" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
