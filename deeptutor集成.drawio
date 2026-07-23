@@ -144,9 +144,6 @@
         <mxCell id="AipDd_lqgMobL2JespXm-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. 用户信息&lt;div&gt;2. 知识库信息&lt;/div&gt;&lt;div&gt;3. 工具信息&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="400" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="_MMwGBqFJR7APa1MgRVe-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. 用户信息&lt;div&gt;2. 创建知识库的请求&lt;/div&gt;&lt;div&gt;3. 知识库文件&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="670" y="270" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
